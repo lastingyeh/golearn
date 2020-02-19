@@ -50,6 +50,12 @@
 
 23.d2array: https://play.golang.org/p/l5LfvjAOpVI
 
+24.map-init: https://play.golang.org/p/pL2ncVr8rxU
+
+25.slice-map: https://play.golang.org/p/YZ6x6U2PMFC
+
+26.struct-copy: https://play.golang.org/p/PBdKON_KYO4
+
 
 ### type
 
