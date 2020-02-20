@@ -56,6 +56,11 @@
 
 26.struct-copy: https://play.golang.org/p/PBdKON_KYO4
 
+27.struct-declare: https://play.golang.org/p/H9Rc78wwqJl
+
+28.type-convert: https://play.golang.org/p/e5navY-mF0c
+
+29.method: https://play.golang.org/p/wAVKQy6HNU4
 
 ### type
 
